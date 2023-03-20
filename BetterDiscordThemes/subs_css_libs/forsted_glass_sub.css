@@ -181,7 +181,7 @@
   input,
   select,
   textarea {
-    font-family: var(--font, 'sans serif');
+    font-family: var(--font, 'sans-serif');
   }
   
   #app-mount .tooltip-33Jwqe {
@@ -548,7 +548,7 @@
     box-shadow: none;
   }
   #app-mount .animatedContainer-1pJv5C {
-    -webkit-mask: linear-gradient(rgba(0, 0, 0, 0.9) 60%, rgba(0, 0, 0, 0) 100%) !important;
+    --webkit-mask: linear-gradient(rgba(0, 0, 0, 0.9) 60%, rgba(0, 0, 0, 0) 100%) !important;
     top: 48px;
     background: transparent;
   }
