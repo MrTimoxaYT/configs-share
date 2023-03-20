@@ -6,10 +6,10 @@
  * @authorId 454184400134078465
 */
 
-@import url("https://raw.githubusercontent.com/MrTimoxaYT/configs-share/main/BetterDiscordThemes/subs_css_libs/forsted_glass_sub.css?token=GHSAT0AAAAAAB46ANB4NHTGIJA3FOQKWVACZAYQXOA");
+@import url("https://raw.githubusercontent.com/MrTimoxaYT/configs-share/main/BetterDiscordThemes/subs_css_libs/forsted_glass_sub.css?token=GHSAT0AAAAAAB46ANB4LYVH5DCRYLPKUZG4ZAYQ4BA");
 
 /* BlackBox tags */
-@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://raw.githubusercontent.com/MrTimoxaYT/configs-share/main/BetterDiscordThemes/subs_css_libs/frosted_user_tags.css?token=GHSAT0AAAAAAB46ANB4VKQ2IQRHTTRMHOU2ZAYQ27A');
 
 /* Old Windows titlebar - remove this @import if you wish to use default titlebar */
 @import url("https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css");
