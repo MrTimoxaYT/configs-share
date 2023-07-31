@@ -1,0 +1,32 @@
+{
+    "tags": {
+        "English": "Character speaks English",
+        "Japanese": "Character speaks Japanese",
+        "Other Language": "The character speaks Other Language",
+        "Anime": "Character from anime",
+        "Vtuber": "Character is a vtuber"
+
+        
+    },
+    "voice_models": [
+        {
+            "name": "Emilia",
+            "url": "https://huggingface.co/RinkaEmina/RVC_Sharing/resolve/main/Emilia%20V2%2048000.zip",
+            "description": "Emilia from Re:Zero",
+            "added": "2023-07-31",
+            "tags": [
+                "Anime"
+            ]
+        },
+        {
+            "name": "Klee",
+            "url": "https://huggingface.co/qweshkka/Klee/resolve/main/Klee.zip",
+            "description": "Klee from genshin impact",
+            "added": "2023-07-31",
+            "tags": [
+                "Anime",
+                "Japanese"
+            ]
+        }
+    ]       
+}
