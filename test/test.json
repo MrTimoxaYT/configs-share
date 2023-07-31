@@ -27,6 +27,16 @@
                 "Anime",
                 "Japanese"
             ]
+        },
+        {
+            "name": "Yelan",
+            "url": "https://huggingface.co/iroaK/RVC2_Yelan_GenshinImpact/resolve/main/YelanJP.zip",
+            "description": "Yelan from genshin impact",
+            "added": "2023-07-31",
+            "tags": [
+                "Anime",
+                "Japanese"
+            ]
         }
     ]       
 }
