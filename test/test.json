@@ -37,6 +37,46 @@
                 "Anime",
                 "Japanese"
             ]
+        },
+        {
+            "name": "Yae Miko",
+            "url": "https://huggingface.co/iroaK/RVC2_YaeMiko_GenshinImpact/resolve/main/Yae_MikoJP.zip",
+            "description": "Yae Miko from genshin impact",
+            "added": "2023-07-31",
+            "tags": [
+                "Anime",
+                "Japanese"
+            ]
+        },
+        {
+            "name": "Lisa",
+            "url": "https://huggingface.co/qweshkka/Lisa2ver/resolve/main/Lisa.zip",
+            "description": "Lisa from genshin impact",
+            "added": "2023-07-31",
+            "tags": [
+                "Anime",
+                "English"
+            ]
+        },
+        {
+            "name": "Kazuha",
+            "url": "https://huggingface.co/iroaK/RVC2_Kazuha_GenshinImpact/resolve/main/Kazuha.zip",
+            "description": "Kaedehara Kazuha from genshin impact",
+            "added": "2023-07-31",
+            "tags": [
+                "Anime",
+                "Japanese"
+            ]
+        },
+        {
+            "name": "Barbara",
+            "url": "https://huggingface.co/iroaK/RVC2_Barbara_GenshinImpact/resolve/main/BarbaraJP.zip",
+            "description": "Barbara from genshin impact",
+            "added": "2023-07-31",
+            "tags": [
+                "Anime",
+                "Japanese"
+            ]
         }
     ]       
 }
