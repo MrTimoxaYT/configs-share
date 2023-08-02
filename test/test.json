@@ -179,7 +179,7 @@
         }, 
         {
             "name": "Yagami Light",
-            "url": "",
+            "url": "https://huggingface.co/geekdom-tr/Yagami-Light/resolve/main/Yagami-Light.zip",
             "description": "Yagami Light (Miyano Mamoru) from death note",
             "added": "2023-08-03",
             "tags": [
