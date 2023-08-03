@@ -14,6 +14,7 @@
             "url": "https://huggingface.co/RinkaEmina/RVC_Sharing/resolve/main/Emilia%20V2%2048000.zip",
             "description": "Emilia from Re:Zero",
             "added": "2023-07-31",
+            "credit": "rinka4759",
             "tags": [
                 "Anime"
             ]
@@ -23,6 +24,7 @@
             "url": "https://huggingface.co/qweshkka/Klee/resolve/main/Klee.zip",
             "description": "Klee from genshin impact",
             "added": "2023-07-31",
+            "credit": "qweshsmashjuicefruity",
             "tags": [
                 "Anime",
                 "Japanese"
@@ -33,6 +35,7 @@
             "url": "https://huggingface.co/iroaK/RVC2_Yelan_GenshinImpact/resolve/main/YelanJP.zip",
             "description": "Yelan from genshin impact",
             "added": "2023-07-31",
+            "credit": "iroak",
             "tags": [
                 "Anime",
                 "Japanese"
@@ -43,6 +46,7 @@
             "url": "https://huggingface.co/iroaK/RVC2_YaeMiko_GenshinImpact/resolve/main/Yae_MikoJP.zip",
             "description": "Yae Miko from genshin impact",
             "added": "2023-07-31",
+            "credit": "iroak",
             "tags": [
                 "Anime",
                 "Japanese"
@@ -53,6 +57,7 @@
             "url": "https://huggingface.co/qweshkka/Lisa2ver/resolve/main/Lisa.zip",
             "description": "Lisa from genshin impact",
             "added": "2023-07-31",
+            "credit": "qweshsmashjuicefruity",
             "tags": [
                 "Anime",
                 "English"
@@ -63,6 +68,7 @@
             "url": "https://huggingface.co/iroaK/RVC2_Kazuha_GenshinImpact/resolve/main/Kazuha.zip",
             "description": "Kaedehara Kazuha from genshin impact",
             "added": "2023-07-31",
+            "credit": "iroak",
             "tags": [
                 "Anime",
                 "Japanese"
@@ -73,6 +79,7 @@
             "url": "https://huggingface.co/iroaK/RVC2_Barbara_GenshinImpact/resolve/main/BarbaraJP.zip",
             "description": "Barbara from genshin impact",
             "added": "2023-07-31",
+            "credit": "iroak",
             "tags": [
                 "Anime",
                 "Japanese"
@@ -83,6 +90,7 @@
             "url": "https://huggingface.co/TJKAI/TomHolland/resolve/main/TomHolland.zip",
             "description": "Tom Holland (Spider-Man)",
             "added": "2023-08-03",
+            "credit": "tjkcreative",
             "tags": [
                 "Real person"
             ]
@@ -92,6 +100,7 @@
             "url": "https://huggingface.co/benitheworld/ayaka-cn/resolve/main/ayaka-cn.zip",
             "description": "Kamisato Ayaka from genshin impact - CN voice actor",
             "added": "2023-08-03",
+            "credit": "kannysoap",
             "tags": [
                 "Anime",
                 "Other Language"
@@ -102,6 +111,7 @@
             "url": "https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Amai-Odayaka.zip",
             "description": "Amai Odayaka from Yandere Simulator",
             "added": "2023-08-03",
+            "credit": "minecraftian47",
             "tags": [
                 "Anime",
                 "English"
@@ -112,6 +122,7 @@
             "url": "https://huggingface.co/zeerowiibu/WiibuRVCCollection/resolve/main/Compa%20(Choujigen%20Game%20Neptunia)%20(JPN)%20(RVC%20v2)%20(150%20Epochs).zip",
             "description": "Compa from Choujigen Game Neptune (aka Hyperdimension Neptunia)",
             "added": "2023-08-03",
+            "credit": "zeerowiibu",
             "tags": [
                 "Anime",
                 "Japanese"
@@ -122,6 +133,7 @@
             "url": "https://huggingface.co/Juneuarie/FuXuan/resolve/main/FuXuan.zip",
             "description": "Fu Xuan from Honkai Star Rail (HSR)",
             "added": "2023-08-03",
+            "credit": "__june",
             "tags": [
                 "Anime",
                 "English"
@@ -132,6 +144,7 @@
             "url": "https://huggingface.co/AnimeSessions/rvc_voice_models/resolve/main/XinyanRVC.zip",
             "description": "Xinyan from genshin impact",
             "added": "2023-08-03",
+            "credit": "shyelijah",
             "tags": [
                 "Anime",
                 "English"
@@ -142,16 +155,18 @@
             "url": "https://huggingface.co/NoIdea4Username/NoIdeaRVCCollection/resolve/main/Enterprise-JP.zip",
             "description": "Enterprise from Azur Lane",
             "added": "2023-08-03",
+            "credit": "minecraftian47",
             "tags": [
                 "Anime",
                 "Japanese"
             ]
         }, 
         {
-            "name": "Kurt Cobain ",
+            "name": "Kurt Cobain",
             "url": "https://huggingface.co/Florstie/Kurt_Cobain_byFlorst/resolve/main/Kurt_Florst.zip",
             "description": "singer Kurt Cobain",
             "added": "2023-08-03",
+            "credit": "florst",
             "tags": [
                 "Real person",
                 "English"
@@ -162,6 +177,7 @@
             "url": "https://huggingface.co/Tempo-Hawk/IronmouseV2/resolve/main/IronmouseV2.zip",
             "description": "Ironmouse",
             "added": "2023-08-03",
+            "credit": "ladyimpa",
             "tags": [
                 "Vtuber",
                 "English"
@@ -172,6 +188,7 @@
             "url": "https://huggingface.co/JHmashups/Bratishkinoff/resolve/main/bratishkin.zip",
             "description": "Bratishkinoff (Bratishkin | Братишкин) - russian steamer ",
             "added": "2023-08-03",
+            "credit": ".caddii",
             "tags": [
                 "Real person",
                 "Other Language"
@@ -182,10 +199,23 @@
             "url": "https://huggingface.co/geekdom-tr/Yagami-Light/resolve/main/Yagami-Light.zip",
             "description": "Yagami Light (Miyano Mamoru) from death note",
             "added": "2023-08-03",
+            "credit": "takka / takka#7700",
             "tags": [
                 "Anime",
                 "Japanese"
             ]
-        }  
+        },
+        {
+            "name": "Itashi",
+            "url": "https://huggingface.co/4uGGun/4uGGunRVC/resolve/main/itashi.zip",
+            "description": "Itashi (Russian fandubber AniLibria) ",
+            "added": "2023-08-03",
+            "credit": "BelochkaOff",
+            "tags": [
+                "Anime",
+                "Other Language",
+                "Real person"
+            ]
+        }   
     ]       
 }
